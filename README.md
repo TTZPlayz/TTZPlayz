@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java on an online coding course
 - 📫 How to reach me: thetruezeraora on Discord and YouTube
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I memorized the entire periodic table and Pokemon is my favorite franchise!
+- ⚡ Fun facts: I memorized the entire periodic table and Pokemon is my favorite franchise!
 
 <!---
 TTZPlayz/TTZPlayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
